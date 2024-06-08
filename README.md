@@ -1,6 +1,14 @@
 # marketplace
 
 ## Project setup
+In root folder, /marketplace, do
+
+```
+npm install
+```
+
+In book-server folder, /marketplace/book-server, do
+
 ```
 npm install
 ```
